@@ -1,6 +1,5 @@
 # ActWebUpload_111
-![Sebelum Unggah](sebelum unggah.png)
-![Setelah unggah](setelah file dihapus.png)
-![setelah file diunggah](setelah file diunduh.png)
-![Setelah file diunduh](setelah file diunggah.png)
-![setelah file dihapus](setelah unggah.png)
+
+![Sebelum Unggah](Siber13/sebelum%20unggah.png)
+![Setelah File Dihapus](Siber13/setelah%20file%20dihapus.png)
+![Setelah File Diunggah](Siber13/setelah%20file%20diunggah.png)
